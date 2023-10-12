@@ -12,27 +12,27 @@ In this repository, you will find a basic project layout that can be smoothly in
 src/
 ├── main/
 │   └── java/
-│       └── com/
-│           └── example/
-│               └── Main.java
+│       └── kelvin/
+│           └── test_java/
+│               └── Application.java
 └── test/
     └── java/
-        └── com/
-            └── example/
-                └── MainTest.java
+        └── kelvin/
+            └── test_java/
+                └── ApplicationTest.java
 ```
 
-### `src/main/java/com/example/Main.java`
+### `src/main/java/kelvin/test_java/Application.java`
 
-The `Main.java` file contains the primary application logic and should include a `main` method, which acts as the application's entry point.
+The `Application.java` file contains the primary application logic and should include a `main` method, which acts as the application's entry point.
 
-### `src/test/java/com/example/MainTest.java`
+### `src/test/java/kelvin/test_java/ApplicationTest.java`
 
-The `MainTest.java` file houses the unit tests for the application. These tests ensure that the `main` method and any additional methods in `Main.java` are functioning as expected.
+The `ApplicationTest.java` file houses the unit tests for the application. These tests ensure that the `main` method and any additional methods in `Application.java` are functioning as expected.
 
 ## Usage
 
-To utilize this sample project, ensure that your Java code resides in the `Main.java` file and the corresponding tests are present in the `MainTest.java` file. Follow the subsequent steps to submit the code to the Kelvin Evaluation System.
+To utilize this sample project, ensure that your Java code resides in the `Application.java` file and the corresponding tests are present in the `ApplicationTest.java` file. Follow the subsequent steps to submit the code to the Kelvin Evaluation System.
 
 ### Steps:
 
