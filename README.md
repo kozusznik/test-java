@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample Java project is structured for compatibility with the [Kelvin Evaluation System](https://github.com/mrlvsb/kelvin). Kelvin facilitates the automated assessment of code submissions, providing a beneficial tool for both educators and learners in computer programming.
+This sample Java project is structured for compatibility with the [Kelvin - The Ultimate Code Examinator](https://github.com/mrlvsb/kelvin). Kelvin facilitates the automated assessment of code submissions, providing a beneficial tool for both educators and learners in computer programming.
 
 In this repository, you will find a basic project layout that can be smoothly interfaced with the Kelvin system, ensuring a straightforward experience when assessing Java projects.
 
